@@ -7,7 +7,7 @@ Android Studio projects.
 
 ### Tools & Technologies I Embrace
 
-## Languages & Frameworks
+# Languages & Frameworks
 * Java
 * Android
 * MySql
@@ -15,7 +15,7 @@ Android Studio projects.
 * CSS
 * Git
 
-## Tools  
+# Tools  
 * IntelliJ
 * Android Studio
 * Git
@@ -23,7 +23,7 @@ Android Studio projects.
 * VSCode
 * Trello
 
-## Operating Systems
+# Operating Systems
 
 * Windows
 * MacOS
