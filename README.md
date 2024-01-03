@@ -11,20 +11,10 @@ Android Studio projects.
 ![java](https://github.com/valdetad/valdetad/assets/112712643/d61c861c-96e3-4ed8-9fb7-76b685546991)
 ![github](https://github.com/valdetad/valdetad/assets/112712643/536d7ec0-83a0-4d50-85c4-72ea2c14af38)
 ![android](https://github.com/valdetad/valdetad/assets/112712643/11e57f21-727a-4dca-a233-1f3bf4446234)
-
-
-![css3](https://github.com/valdetad/valdetad/assets/112712643/0da83e0b-0109-4fe0-8c1c-4018a2ab6b60)<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="px" viewBox="0 0 64 64" version="1.1">
+![css3 copy](https://github.com/valdetad/valdetad/assets/112712643/aac12f0e-01ef-4606-8d9b-82add0032365)<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 64 64" version="1.1">
 <g id="surface1">
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(8.235294%,44.705882%,71.372549%);fill-opacity:1;" d="M 9.835938 13 L 13.871094 58.246094 L 31.972656 63.273438 L 50.125 58.238281 L 54.164062 13 Z M 44.441406 38.242188 L 43.265625 49.191406 L 43.269531 50.128906 L 32 53.273438 L 32 53.277344 L 31.992188 53.28125 L 20.632812 50.171875 L 19.863281 41.5 L 25.433594 41.5 L 25.828125 45.882812 L 32.003906 47.53125 L 32 47.539062 L 32 47.523438 L 38.195312 45.773438 L 38.851562 38.5 L 25.898438 38.5 L 25.785156 37.324219 L 25.535156 34.5 L 25.402344 33 L 39.34375 33 L 39.851562 27.5 L 18.613281 27.5 L 18.503906 26.207031 L 18.25 23.191406 L 18.117188 21.5 L 45.914062 21.5 L 45.78125 23.167969 L 44.441406 38.242188 M 44.5 7.1875 L 40.925781 3 L 44.5 3 L 44.5 0.5 L 36.5 0.5 L 36.5 2.679688 L 40.695312 6.5 L 36.5 6.5 L 36.5 9 L 44.5 9 Z M 35 7.1875 L 31.597656 3 L 35 3 L 35 0.5 L 27.5 0.5 L 27.5 2.679688 L 31.367188 6.5 L 27.5 6.5 L 27.5 9 L 35 9 Z M 26 6.5 L 22 6.5 L 22 3 L 26 3 L 26 0.5 L 19 0.5 L 19 9 L 26 9 Z M 26 6.5 "/>
-</g>
-</svg>![html5](https://github.com/valdetad/valdetad/assets/112712643/150bd74b-70c8-44bf-bf16-99e350c92a43)<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="px" viewBox="0 0 64 64" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(89.411765%,30.196078%,14.901961%);fill-opacity:1;" d="M 9.519531 56.9375 L 4.515625 0.832031 L 59.484375 0.832031 L 54.476562 56.929688 L 31.964844 63.167969 Z M 9.519531 56.9375 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(94.509804%,39.607843%,16.078431%);fill-opacity:1;" d="M 32 58.398438 L 50.1875 53.355469 L 54.46875 5.417969 L 32 5.417969 Z M 32 58.398438 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(92.156863%,92.156863%,92.156863%);fill-opacity:1;" d="M 32 26.226562 L 22.894531 26.226562 L 22.265625 19.179688 L 32 19.179688 L 32 12.300781 L 14.746094 12.300781 L 14.910156 14.144531 L 16.601562 33.109375 L 32 33.109375 Z M 32 44.097656 L 31.96875 44.109375 L 24.304688 42.039062 L 23.816406 36.550781 L 16.90625 36.550781 L 17.871094 47.355469 L 31.96875 51.265625 L 32 51.257812 Z M 32 44.097656 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 31.976562 26.226562 L 31.976562 33.109375 L 40.449219 33.109375 L 39.652344 42.035156 L 31.976562 44.105469 L 31.976562 51.265625 L 46.082031 47.355469 L 46.1875 46.191406 L 47.804688 28.074219 L 47.972656 26.226562 Z M 31.976562 12.300781 L 31.976562 19.179688 L 48.597656 19.179688 L 48.734375 17.632812 L 49.050781 14.144531 L 49.214844 12.300781 Z M 31.976562 12.300781 "/>
 </g>
 </svg>
 
