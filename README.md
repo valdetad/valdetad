@@ -2,8 +2,8 @@
 
 Hey, I'm Valdeta 👋
 
-I'm a 22 year old developer based in North Macedonia, computer engineering student with experience developing Java console apps and
-Android Studio projects.
+I'm 22 year old developer based in North Macedonia, computer engineering student with experience developing Java console apps and
+Android apps.
 
 ## Tools & Technologies I Embrace
 
