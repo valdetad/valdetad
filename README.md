@@ -30,5 +30,4 @@ Android Studio projects.
 * Android
 * iOS
 * VSCode
-* Trello
 
