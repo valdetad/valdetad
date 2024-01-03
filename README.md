@@ -11,4 +11,5 @@ Android Studio projects.
 ![java](https://github.com/valdetad/valdetad/assets/112712643/d61c861c-96e3-4ed8-9fb7-76b685546991)
 ![github](https://github.com/valdetad/valdetad/assets/112712643/536d7ec0-83a0-4d50-85c4-72ea2c14af38)
 ![android](https://github.com/valdetad/valdetad/assets/112712643/11e57f21-727a-4dca-a233-1f3bf4446234)
-![CSS](https://github.com/valdetad/valdetad/assets/112712643/b1c4664b-b39c-4092-bebf-fb1ef3cd9c86)
+![Unknown1-modified](https://github.com/valdetad/valdetad/assets/112712643/7cb7c78e-ba6e-4b2f-801c-2fe23eadb7d5)
+
