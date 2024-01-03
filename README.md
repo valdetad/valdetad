@@ -29,5 +29,4 @@ Android apps.
 * MacOS
 * Android
 * iOS
-* VSCode
 
