@@ -1,13 +1,13 @@
-### About Me
+## About Me
 
 Hey, I'm Valdeta 👋
 
 I'm a 22 year old developer based in North Macedonia, computer engineering student with experience developing Java console apps and
 Android Studio projects.
 
-### Tools & Technologies I Embrace
+# Tools & Technologies I Embrace
 
-# Languages & Frameworks
+### Languages & Frameworks
 * Java
 * Android
 * MySql
@@ -15,7 +15,7 @@ Android Studio projects.
 * CSS
 * Git
 
-# Tools  
+### Tools  
 * IntelliJ
 * Android Studio
 * Git
@@ -23,7 +23,7 @@ Android Studio projects.
 * VSCode
 * Trello
 
-# Operating Systems
+### Operating Systems
 
 * Windows
 * MacOS
