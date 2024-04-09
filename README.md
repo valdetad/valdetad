@@ -8,6 +8,7 @@ Android apps.
 ## Tools & Technologies I Embrace
 
 ### Languages & Frameworks
+* C#
 * Java
 * Android
 * MySql
