@@ -17,6 +17,7 @@ Android apps.
 * Git
 
 ### Tools  
+* Visual Studio
 * IntelliJ
 * Android Studio
 * Git
