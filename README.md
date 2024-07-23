@@ -2,7 +2,7 @@
 
 Hey, I'm Valdeta 👋
 
-I'm a 22-year-old developer based in North Macedonia, currently studying computer engineering. Proficient in the .NET framework using C#. Also, I have hands-on experience in developing Java console applications and Android apps.
+I am a recent graduate in Computer Engineering with a focus on Java and the Spring Boot framework. Based in North Macedonia, I have hands-on experience in developing Java applications and Android apps, combining my technical skills with a passion for innovative software solutions.
 
 
 ## Tools & Technologies I Embrace
