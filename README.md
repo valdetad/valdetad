@@ -6,6 +6,8 @@ I am a recent graduate in Computer Engineering with a focus on Java and the Spri
 
 [![Valdeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdetad)](https://github.com/anuraghazra/github-readme-stats)
 
+![[Valdeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdetad&hide=contribs,prs)
+
 ## Tools & Technologies I Embrace
 
 ### Languages & Frameworks
