@@ -7,8 +7,8 @@ I am a recent graduate in Computer Engineering with a focus on Java and the Spri
 ## Tools & Technologies I Embrace
 
 ### Languages & Frameworks
-* C#
 * Java
+* Spring Boot
 * Android
 * MySql
 * HTML
@@ -22,7 +22,7 @@ I am a recent graduate in Computer Engineering with a focus on Java and the Spri
 * Git
 * GitHub
 * VSCode
-* Trello
+* Jira
 
 ### Operating Systems
 
