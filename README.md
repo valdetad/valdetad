@@ -16,8 +16,8 @@ I am a recent graduate in Computer Engineering with a focus on Java and the Spri
 * Git
 
 ### Tools  
-* Visual Studio
 * IntelliJ
+* Visual Studio
 * Android Studio
 * Git
 * GitHub
