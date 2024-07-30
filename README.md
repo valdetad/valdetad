@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **valdetademiri2@gmail.com**
 Technologies:
-Programming Language:
+
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
