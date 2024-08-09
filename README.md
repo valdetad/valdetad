@@ -5,6 +5,7 @@
   📫 How to reach me: <a href="mailto:valdetademiri2@gmail.com">valdetademiri2@gmail.com</a>
 </p>
 
+<h3 align="center">Technologies</h3>
 <h4>Front End Development:</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
