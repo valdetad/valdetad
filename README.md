@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Valdeta</h1>
-<h3 align="center">A Passionate Backend Developer from North Macedonia</h3>
+<h3 align="center">Always learning, always coding, always building 🚀</h3>
 
 <p align="center">
-  📫 Reach me at: <a href="mailto:sara@gmail.com">sara@gmail.com</a>
+  📫 Reach me at: <a href="mailto:valdetademiri2@gmail.com">valdetademiri2@gmail.com</a>
 </p>
 
 ---
