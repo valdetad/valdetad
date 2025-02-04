@@ -6,6 +6,7 @@
 </p>
 
 ---
+## 🚀 Technologies & Tools
 
 ### 🎨 Frontend Development
 <p align="left">
