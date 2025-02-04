@@ -5,7 +5,7 @@
   📫 Reach me at: <a href="mailto:valdetademiri2@gmail.com">valdetademiri2@gmail.com</a>
 </p>
 
----
+
 ## 🚀 Technologies & Tools
 
 ### 🎨 Frontend Development
@@ -50,7 +50,6 @@
 
 ### 🔧 Other Tools
 <p align="left"> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman API Testing" width="50" height="50"/> </a> <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/> </a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="50" height="50"/> </a> </p>
----
 
 ### 💡 Fun Fact  
 🎵 I love coding while listening to music and exploring new technologies!
